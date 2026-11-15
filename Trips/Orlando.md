@@ -1,4 +1,4 @@
-# Orlanda
+# Orlando
 
 > Trip notes for Orlanda.
 
