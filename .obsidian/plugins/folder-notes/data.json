@@ -9,24 +9,7 @@
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [
-    {
-      "detached": false,
-      "type": "folder",
-      "id": "6d1cd3e2-5a00-4287-a944-5c84b8f92e48",
-      "path": "Monthly Budget",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false,
-      "showFolderNote": false
-    }
-  ],
+  "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,
